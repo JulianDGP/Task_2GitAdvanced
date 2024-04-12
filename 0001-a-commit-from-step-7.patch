@@ -1,0 +1,31 @@
+From 8bcdd7a70bbe87ba65f9c545c858c3acf05e41d6 Mon Sep 17 00:00:00 2001
+From: JulianDGP <juliandgp@hotmail.com>
+Date: Fri, 12 Apr 2024 10:37:57 -0500
+Subject: [PATCH] a commit from step 7
+
+---
+ firstFile.txt | 6 +++---
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index b3f56ae..491d972 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,10 +1,10 @@
+ line 1
+-line 2
+-line 3
++line 2 Changed by step 7
++line 3 Changed by step 7
+ line 4
+ line 5
+ line 6
+ line 7
+ line 8
+ line 9
+-line 10
+\ No newline at end of file
++line 10
+-- 
+2.43.0.windows.1
+
